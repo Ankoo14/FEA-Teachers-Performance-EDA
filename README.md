@@ -19,9 +19,8 @@ This project analyzes teachers performance data using Python. The process includ
 
 ## Installation
 1. Clone the repository:
+   https://github.com/Ankoo14/Teachers_Performance_Analysis_FEA.git
    
-   git clone https://github.com/yourusername/student-performance-analysis.git
-
 ## Usage
 - Open student_performance_analysis.ipynb (for Jupyter Notebook) or run student_performance_analysis.py (for script execution).
 - Remeber to check the path of the dataset.
