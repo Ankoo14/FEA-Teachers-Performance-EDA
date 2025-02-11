@@ -18,7 +18,9 @@ This project analyzes teachers performance data using Python. The process includ
 - Excel
 
 ## Installation
-1. Clone the repository:
+1. Install dependencies
+   pip install -r requirements.txt
+2. Clone the repository:
    https://github.com/Ankoo14/Teachers_Performance_Analysis_FEA.git
    
 ## Usage
